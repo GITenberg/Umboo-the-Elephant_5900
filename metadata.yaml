@@ -1,0 +1,31 @@
+_repo: Umboo-the-Elephant_5900
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Garis, Howard Roger
+    aliases:
+    - Davidson, Marion
+    - Garis, Howard R.
+    birthdate: 1873
+    deathdate: 1962
+    gutenberg_agent_id: '808'
+    url: http://www.gutenberg.org/2009/agents/808
+    wikipedia: http://en.wikipedia.org/wiki/Howard_R._Garis
+description: Umboo the elephant tells his story to all the other circus animals about
+  his life in the jungles of India before coming to the circus.
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5900'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Elephants -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Circus animals -- Juvenile fiction'
+- !lcsh 'India -- Juvenile fiction'
+- GITenberg
+title: Umboo, the Elephant
+url: http://www.gutenberg.org/ebooks/5900
