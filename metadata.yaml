@@ -1,5 +1,8 @@
 _repo: Umboo-the-Elephant_5900
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Garis, Howard Roger
@@ -13,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Howard_R._Garis
 description: Umboo the elephant tells his story to all the other circus animals about
   his life in the jungles of India before coming to the circus.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5900#Umboo-the-Elephant
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
